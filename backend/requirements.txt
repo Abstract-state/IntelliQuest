@@ -1,0 +1,7 @@
+Flask
+gunicorn
+celery
+redis
+openai
+google-api-python-client
+flask-cors
